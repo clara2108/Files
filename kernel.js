@@ -212,7 +212,7 @@
                         "description": "string"
                       },
                       {
-                        "name": "	The underlying opportunities to be exploited have been outlined and agreed.",
+                        "name": "The underlying opportunities to be exploited have been outlined and agreed.",
                         "briefDescription": "string",
                         "description": "string"
                       }
